@@ -10,9 +10,17 @@
     <header class="header"><h1 class="myweb"><a href="./index.html">MyWeb</a></h1>
         <div class="chat-head">
         <a class="share" href="./share.html">Share</a>
-        <a class="start" href="./chat.html">Start</a>
     </div></header>
     <main class="main">
+        <div id="chat" class="chat">
+            <div id="messages" class="messages">
+                <ul id="messages-list" class="message-list"></ul>
+            </div>
+            <div class="input-wrapper">
+                <input type="text" id="user-input" class="user-input" />
+                <button type="button" id="send">Send</button>
+            </div>
+        </div>
         <div class="start-pg">
             <h2 class="main-ttl">MyWebChat</h2>
         <p class="main-txt">Try to speak to your favourite oponent ever.</p></div>
@@ -24,7 +32,6 @@
             <div class="git"><a href="https://github.com/yaroslavami">.</a></div>
         </div>
         </footer>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
-    <script src="./script.js"></script>
+        <script src="./script.js"></script>
 </body>
 </html>

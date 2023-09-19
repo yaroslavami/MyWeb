@@ -1,0 +1,22 @@
+{
+  "chatSession": [
+    {
+      "id": "d75c2ece-1fab-4384-be40-61f0a5e22a11",
+      "userName": "Frodo",
+      "userPhoto": "https://pm1.aminoapps.com/7152/55879690957ccd33dd16915b92609e9337b38e87r1-343-392v2_00.jpg",
+      "userMessage": "I wish it need not have happened in my time"
+    },
+    {
+      "id": "c5670b45-58ff-4175-ae16-cf1825d67d8b",
+      "userName": "Gendalf",
+      "userPhoto": "https://citaty.info/files/characters/1650.jpg",
+      "userMessage": "So do I, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us"
+    },
+    {
+      "id": "c5670b45-58ff-4175-ae16-cf1825d67d8b",
+      "userName": "Gendalf",
+      "userPhoto": "https://citaty.info/files/characters/1650.jpg",
+      "userMessage": "There are other forces at work in this world, Frodo, besides the will of evil. Bilbo was meant to find the Ring, in which case you also were meant to have it. And that is an encouraging thought."
+    }
+  ]
+}
